@@ -33,5 +33,11 @@ for(var i=1;i<10000000;i++){
 
 ts.stop();
 
-console.log('总时间：%s    暂停时间：%s    使用时间：%s ', ts.elapsedtime(), ts.pausetime(), ts.usedtime());
+console.log('总时间：%sms    暂停时间：%sms    使用时间：%sms ', ts.elapsedtime(), ts.pausetime(), ts.usedtime());
+```
+
+## Result
+
+```js
+总时间：108ms         暂停时间：14ms        使用时间：94ms
 ```
