@@ -1,0 +1,20 @@
+{
+    "name": "timespan",
+    "description": "timespan",
+    "version": "0.0.1",
+    "author": {
+      "name": "Dn9x",
+      "email": "xiuxu123@live.cn"
+    },
+    "homepage": "https://github.com/Dn9x/timespan",
+    "bugs": "https://github.com/Dn9x/timespan/issues",
+    "keywords": [ "span", "watch", "timespan", "time" ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dn9x/timespan"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "main": "timespan.js"
+}
