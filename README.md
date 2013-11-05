@@ -6,7 +6,7 @@
 npm install timespans
 ```
 
-This is a timespans from nodejs.
+This is a timespans for nodejs.
 
 
 ## Usage
