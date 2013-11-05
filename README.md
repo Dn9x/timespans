@@ -1,18 +1,18 @@
-# timespan
+# timespans
 
 ## Install
 
 ```bash
-npm install timespan
+npm install timespans
 ```
 
-This is a timespan from nodejs.
+This is a timespans from nodejs.
 
 
 ## Usage
 
 ```js
-var ts = require('timespan');
+var ts = require('timespans');
 
 //开始
 ts.start();

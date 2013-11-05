@@ -1,20 +1,28 @@
 {
-    "name": "timespan",
-    "description": "timespan",
-    "version": "0.0.1",
-    "author": {
-      "name": "Dn9x",
-      "email": "xiuxu123@live.cn"
-    },
-    "homepage": "https://github.com/Dn9x/timespan",
-    "bugs": "https://github.com/Dn9x/timespan/issues",
-    "keywords": [ "span", "watch", "timespan", "time" ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Dn9x/timespan"
-    },
-    "engines": {
-        "node": "*"
-    },
-    "main": "timespan.js"
+  "name": "timespans",
+  "description": "timespans",
+  "version": "0.0.1",
+  "author": "xiuxu123 <xiuxu123@live.cn>",
+  "homepage": "https://github.com/Dn9x/timespans",
+  "bugs": {
+    "url": "https://github.com/Dn9x/timespans/issues"
+  },
+  "keywords": [
+    "span",
+    "timespan",
+    "timespans",
+    "time"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dn9x/timespans"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "timespans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
 }
