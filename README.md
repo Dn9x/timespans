@@ -28,7 +28,6 @@ console.log('总时间：%s 暂停时间：%s 使用时间：%s ', tw.elapsedtim
 ```
 
 ## Result
-1
 
 ```
 总时间：20ms 暂停时间：0ms 使用时间：20ms
